@@ -1,0 +1,224 @@
+object Form1: TForm1
+  Left = 343
+  Height = 286
+  Top = 193
+  Width = 253
+  Caption = 'Калькулятор'
+  ClientHeight = 286
+  ClientWidth = 253
+  LCLVersion = '1.4.0.4'
+  object Edit1: TEdit
+    Left = 8
+    Height = 31
+    Top = 8
+    Width = 240
+    BidiMode = bdRightToLeft
+    Font.CharSet = RUSSIAN_CHARSET
+    Font.Height = -19
+    Font.Name = 'Book Antiqua'
+    Font.Pitch = fpVariable
+    Font.Quality = fqDraft
+    Font.Style = [fsBold]
+    ParentBidiMode = False
+    ParentFont = False
+    TabOrder = 0
+  end
+  object But1: TButton
+    Left = 8
+    Height = 40
+    Top = 192
+    Width = 40
+    Caption = '1'
+    OnClick = ClickBut
+    TabOrder = 1
+  end
+  object But2: TButton
+    Left = 56
+    Height = 40
+    Top = 192
+    Width = 40
+    Caption = '2'
+    OnClick = ClickBut
+    TabOrder = 2
+  end
+  object But3: TButton
+    Left = 104
+    Height = 40
+    Top = 192
+    Width = 40
+    Caption = '3'
+    OnClick = ClickBut
+    TabOrder = 3
+  end
+  object But4: TButton
+    Left = 8
+    Height = 40
+    Top = 144
+    Width = 40
+    Caption = '4'
+    OnClick = ClickBut
+    TabOrder = 4
+  end
+  object But5: TButton
+    Left = 56
+    Height = 40
+    Top = 144
+    Width = 40
+    Caption = '5'
+    OnClick = ClickBut
+    TabOrder = 5
+  end
+  object But6: TButton
+    Left = 104
+    Height = 40
+    Top = 144
+    Width = 40
+    Caption = '6'
+    OnClick = ClickBut
+    TabOrder = 6
+  end
+  object But7: TButton
+    Left = 8
+    Height = 40
+    Top = 96
+    Width = 40
+    Caption = '7'
+    OnClick = ClickBut
+    TabOrder = 7
+  end
+  object But8: TButton
+    Left = 56
+    Height = 40
+    Top = 96
+    Width = 40
+    Caption = '8'
+    OnClick = ClickBut
+    TabOrder = 8
+  end
+  object But9: TButton
+    Left = 104
+    Height = 40
+    Top = 96
+    Width = 40
+    Caption = '9'
+    OnClick = ClickBut
+    TabOrder = 9
+  end
+  object But10: TButton
+    Left = 152
+    Height = 40
+    Top = 192
+    Width = 40
+    Caption = '-'
+    OnClick = ClickZnak
+    TabOrder = 10
+  end
+  object But11: TButton
+    Left = 152
+    Height = 40
+    Top = 144
+    Width = 40
+    Caption = '*'
+    OnClick = ClickZnak
+    TabOrder = 11
+  end
+  object But12: TButton
+    Left = 152
+    Height = 40
+    Top = 96
+    Width = 40
+    Caption = '/'
+    OnClick = ClickZnak
+    TabOrder = 12
+  end
+  object But13: TButton
+    Left = 8
+    Height = 40
+    Top = 240
+    Width = 88
+    Caption = '0'
+    OnClick = ClickBut
+    TabOrder = 13
+  end
+  object But14: TButton
+    Left = 104
+    Height = 40
+    Top = 240
+    Width = 40
+    Caption = ','
+    OnClick = ClickBut
+    TabOrder = 14
+  end
+  object But15: TButton
+    Left = 152
+    Height = 40
+    Top = 240
+    Width = 40
+    Caption = '+'
+    OnClick = ClickZnak
+    TabOrder = 15
+  end
+  object But16: TButton
+    Left = 200
+    Height = 88
+    Top = 192
+    Width = 40
+    Caption = '='
+    OnClick = But16Click
+    TabOrder = 16
+  end
+  object But17: TButton
+    Left = 200
+    Height = 40
+    Top = 144
+    Width = 40
+    Caption = '1/x'
+    OnClick = But17Click
+    TabOrder = 17
+  end
+  object But18: TButton
+    Left = 200
+    Height = 40
+    Top = 96
+    Width = 40
+    Caption = 'x^2'
+    OnClick = But18Click
+    TabOrder = 18
+  end
+  object But19: TButton
+    Left = 200
+    Height = 40
+    Top = 48
+    Width = 40
+    Caption = 'Кор'
+    OnClick = But19Click
+    TabOrder = 19
+  end
+  object But20: TButton
+    Left = 152
+    Height = 40
+    Top = 48
+    Width = 40
+    Caption = 'c'
+    OnClick = But20Click
+    TabOrder = 20
+  end
+  object But21: TButton
+    Left = 104
+    Height = 40
+    Top = 48
+    Width = 40
+    Caption = 'ce'
+    OnClick = But21Click
+    TabOrder = 21
+  end
+  object But22: TButton
+    Left = 8
+    Height = 40
+    Top = 48
+    Width = 88
+    Caption = '<-'
+    OnClick = But22Click
+    TabOrder = 22
+  end
+end
