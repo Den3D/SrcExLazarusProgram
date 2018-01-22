@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<CONFIG>
-  <Compiler Value="D:\Language\Lazarus\fpc\3.0.0\bin\x86_64-win64\fpc.exe" Date="1213098656"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiM:\Lazarus\Программы\Простой текстовый редактор\lib\x86_64-win64&quot; -FuD:\Language\Lazarus\lcl\units\x86_64-win64\win32 -FuD:\Language\Lazarus\lcl\units\x86_64-win64 -FuD:\Language\Lazarus\components\lazutils\lib\x86_64-win64 -FuD:\Language\Lazarus\packager\units\x86_64-win64 &quot;-FuM:\Lazarus\Программы\Простой текстовый редактор\&quot; &quot;-FUM:\Lazarus\Программы\Простой текстовый редактор\lib\x86_64-win64\&quot; -dLCL -dLCLwin32 TextEditor.lpr"/>
-</CONFIG>
