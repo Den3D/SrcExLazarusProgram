@@ -1,0 +1,48 @@
+object Form1: TForm1
+  Left = 418
+  Height = 311
+  Top = 264
+  Width = 411
+  Caption = 'Form1'
+  ClientHeight = 311
+  ClientWidth = 411
+  LCLVersion = '1.6.0.4'
+  object Memo1: TMemo
+    Left = 8
+    Height = 184
+    Top = 8
+    Width = 230
+    Lines.Strings = (
+      'Memo1'
+    )
+    OnChange = Memo1Change
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 272
+    Height = 25
+    Top = 24
+    Width = 102
+    Caption = '1 Заменить'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 272
+    Height = 25
+    Top = 64
+    Width = 99
+    Caption = '1 Заменить все'
+    OnClick = Button2Click
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 272
+    Height = 25
+    Top = 104
+    Width = 102
+    Caption = '2 Заменить'
+    OnClick = Button3Click
+    TabOrder = 3
+  end
+end
