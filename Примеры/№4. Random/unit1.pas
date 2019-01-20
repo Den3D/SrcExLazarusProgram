@@ -56,6 +56,7 @@ var
   bool : Boolean;
 
 begin
+  if ( Edit1.Text <>'') and (Edit2.Text <>'') and (Edit3.Text <>'' ) then begin
   Memo1.Clear;
   n := StrToInt(Edit1.Text);
   a := StrToInt(Edit2.Text);
@@ -83,8 +84,9 @@ begin
 
    end; // for
 
-  end else ShowMessage('Error! Одно из условий не выполняется!');
+  end else ShowMessage('Error! Одно из условий не выполняется!')
 
+  end else ShowMessage('Error! Введите значения');
 
 end;
 
