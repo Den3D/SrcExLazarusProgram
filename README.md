@@ -8,13 +8,13 @@
 <body>
   <h1>Уроки программирования по Lazarus </h1>
   <p><b>Примеры</b> - Исходники плейлиста "Примеры на Lazarus"</p><br>
-    <p>№1. MemoReplace</p><br>
-    <p>№2. Sender</p><br> 
-    <p>№3. NumberGames </p><br>
-    <p>№4. Random</p><br> 
-    <p>№5. Racing</p><br> 
-    <p>№6. Racing №2</p><br> 
-    <p>№7. LasPassword</p> 
+    №1. MemoReplace<br>
+    №2. Sender<br> 
+    №3. NumberGames<br>
+    №4. Random<br> 
+    №5. Racing<br> 
+    №6. Racing №2<br> 
+    №7. LasPassword 
 
 <p>Программы - Исходники плейлиста "Пишем программы на Lazarus"</p><br> 
     <p>№1. Калькулятор</p><br> 
