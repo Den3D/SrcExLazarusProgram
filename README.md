@@ -20,7 +20,8 @@
     №1. Калькулятор<br> 
     №2. Простой текстовый редактор<br>
     №3. Программа-тест<br>    
-<hr>
+    
+<br><br>
     Copyright 2018 TheMrDen3D, All Rights Reserved.
 </body>    
 
