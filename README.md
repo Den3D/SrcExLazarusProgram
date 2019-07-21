@@ -14,7 +14,9 @@
     №4. Random<br> 
     №5. Racing<br> 
     №6. Racing №2<br> 
-    №7. LasPassword 
+    №7. LasPassword<br>
+	№8. Игра Snake2D
+	
 <br><br>
   <p><b>Программы</b> - Исходники плейлиста "Пишем программы на Lazarus"</p>
     №1. Калькулятор<br> 
