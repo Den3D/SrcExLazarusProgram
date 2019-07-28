@@ -15,7 +15,8 @@
     №5. Racing<br> 
     №6. Racing №2<br> 
     №7. LasPassword<br>
-	№8. Игра Snake2D
+	№8. Игра Snake2D<br>
+	№9. Сatch a mole
 	
 <br><br>
   <p><b>Программы</b> - Исходники плейлиста "Пишем программы на Lazarus"</p>
