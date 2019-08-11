@@ -17,7 +17,8 @@
     №7. LasPassword<br>
 	№8. Игра Snake2D<br>
 	№9. Сatch a mole<br>
-	№10. Stopwatch
+	№10. Stopwatch<br>
+    №11. Tic-Tac-Toe
 	
 <br><br>
   <p><b>Программы</b> - Исходники плейлиста "Пишем программы на Lazarus"</p>
