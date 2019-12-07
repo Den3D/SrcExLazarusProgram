@@ -1,13 +1,13 @@
 object Form1: TForm1
-  Left = 551
+  Left = 439
   Height = 356
-  Top = 281
+  Top = 263
   Width = 495
   Caption = 'Простой текстовый редактор'
   ClientHeight = 336
   ClientWidth = 495
   Menu = MainMenu1
-  LCLVersion = '1.6.0.4'
+  LCLVersion = '2.0.4.0'
   object Memo1: TMemo
     Left = 0
     Height = 336
@@ -71,8 +71,8 @@ object Form1: TForm1
   end
   object OpenDialog1: TOpenDialog
     Filter = 'Техтовый документ|*.txt|Все|*.*'
-    left = 291
-    top = 19
+    left = 280
+    top = 24
   end
   object SaveDialog1: TSaveDialog
     Filter = 'Текстовый документ |*.txt|Все|*.*'

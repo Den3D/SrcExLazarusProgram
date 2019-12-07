@@ -8,7 +8,7 @@ object Form1: TForm1
   ClientHeight = 445
   ClientWidth = 658
   Position = poScreenCenter
-  LCLVersion = '1.8.2.0'
+  LCLVersion = '2.0.4.0'
   object Panel1: TPanel
     Left = 416
     Height = 445
@@ -103,7 +103,7 @@ object Form1: TForm1
           Left = 16
           Height = 90
           Top = 16
-          Width = 376
+          Width = 384
           Font.CharSet = RUSSIAN_CHARSET
           Font.Height = -16
           Font.Name = 'Times New Roman'
