@@ -1,12 +1,12 @@
 object Form1: TForm1
-  Left = 418
-  Height = 311
+  Left = 187
+  Height = 208
   Top = 264
-  Width = 411
+  Width = 385
   Caption = 'Form1'
-  ClientHeight = 311
-  ClientWidth = 411
-  LCLVersion = '1.6.0.4'
+  ClientHeight = 208
+  ClientWidth = 385
+  LCLVersion = '2.0.4.0'
   object Memo1: TMemo
     Left = 8
     Height = 184

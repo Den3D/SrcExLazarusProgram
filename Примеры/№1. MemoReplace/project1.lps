@@ -2,7 +2,7 @@
 <CONFIG>
   <ProjectSession>
     <PathDelim Value="\"/>
-    <Version Value="9"/>
+    <Version Value="11"/>
     <BuildModes Active="Default"/>
     <Units Count="2">
       <Unit0>
@@ -18,17 +18,18 @@
         <Filename Value="unit1.pas"/>
         <IsPartOfProject Value="True"/>
         <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>
         <UnitName Value="Unit1"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="75"/>
-        <CursorPos X="24" Y="89"/>
+        <TopLine Value="62"/>
+        <CursorPos X="2" Y="87"/>
         <UsageCount Value="20"/>
         <Loaded Value="True"/>
         <LoadedDesigner Value="True"/>
       </Unit1>
     </Units>
-    <JumpHistory Count="6" HistoryIndex="5">
+    <JumpHistory Count="9" HistoryIndex="8">
       <Position1>
         <Filename Value="unit1.pas"/>
       </Position1>
@@ -52,6 +53,22 @@
         <Filename Value="unit1.pas"/>
         <Caret Line="66" TopLine="56"/>
       </Position6>
+      <Position7>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="89" Column="24" TopLine="75"/>
+      </Position7>
+      <Position8>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="45" Column="4" TopLine="40"/>
+      </Position8>
+      <Position9>
+        <Filename Value="unit1.pas"/>
+        <Caret Line="60" Column="22" TopLine="56"/>
+      </Position9>
     </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode="default"/>
+    </RunParams>
   </ProjectSession>
 </CONFIG>
