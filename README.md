@@ -2,8 +2,9 @@
 
 #### **Примеры** - Исходники плейлиста ["Примеры на Lazarus"](https://www.youtube.com/watch?v=i9MHZRlUluE&list=PLaHMNOpHDYwrqReYSHzq9zqocgU7RpqT-)
 [№1. MemoReplace](http://localhost/) 
-|[![image](res/ogls.png "OpenGL")](OpenGL) | 2222 |
+| |  |
 | ---- | ---- |
+|[![image](res/ogls.png "OpenGL")](OpenGL) | 2222 |
 
 [№2. Sender](http://localhost/)
 | 1111 | 2222 |
