@@ -1,55 +1,61 @@
 # Уроки программирования по Lazarus
 
-#### **Примеры** - Исходники плейлиста ["Примеры на Lazarus"](https://www.youtube.com/watch?v=i9MHZRlUluE&list=PLaHMNOpHDYwrqReYSHzq9zqocgU7RpqT-)
+#### **Примеры** - Исходники плейлиста ["Примеры на Lazarus"](https://www.youtube.com/watch?v=74ZoM656uHE&list=PLaHMNOpHDYwqLUaunYysVTQjXa8sErVrX)
 
-[№1. MemoReplace](http://localhost/) 
+[№1. MemoReplace](Примеры/№1.%20MemoReplace) 
 
-|  |  |
+|[![image](res/10.png "MemoReplace")](Примеры/№1.%20MemoReplace) | [![image](res/11.png "MemoReplace")](Примеры/№1.%20MemoReplace) |
 | ----: | :---- |
-|[![image](res/ogls.png "OpenGL")](OpenGL) | 2222 |
 
-[№2. Sender](http://localhost/)
-| 1111 | 2222 |
+[№2. Sender](Примеры/№2.%20Sender)
+
+|[![image](res/20.png "Sender")](Примеры/№2.%20Sender) | [![image](res/21.png "Sender")](Примеры/№2.%20Sender) |
 | ---- | ---- |
 
-[№3. NumberGames](http://localhost/)
-| 1111 | 2222 |
+[№3. NumberGames](Примеры/№3.%20NumberGues)
+
+|[![image](res/30.png "NumberGues")](Примеры/№3.%20NumberGues) | [![image](res/31.png "NumberGues")](Примеры/№3.%20NumberGues) |
 | ---- | ---- |
 
-[№4. Random](http://localhost/)
-| 1111 | 2222 |
+[№4. Random](Примеры/№4.%20Random)
+
+|[![image](res/40.png "Random")](Примеры/№4.%20Random) | [![image](res/41.png "Random")](Примеры/№4.%20Random) |
 | ---- | ---- |
 
-[№5. Racing](http://localhost/) 
-| 1111 | 2222 |
+[№5. Racing](Примеры/№5.%20Racing) 
+
+|[![image](res/50.png "Racing")](Примеры/№5.%20Racing)  | [![image](res/51.png "Racing")](Примеры/№5.%20Racing) |
 | ---- | ---- |
 
-[№6. Racing №2](http://localhost/) 
-| 1111 | 2222 |
+[№6. Racing №2](Примеры/№6.%20Racing) 
+
+|[![image](res/60.png "Racing 2")](Примеры/№6.%20Racing)  | [![image](res/61.png "Racing 2")](Примеры/№6.%20Racing) |
 | ---- | ---- |
 
-[№7. LasPassword](http://localhost/) 
-| 1111 | 2222 |
+[№7. LasPassword](Примеры/№7.%20LasPassword) 
+
+|[![image](res/70.png "LasPassword")](Примеры/№7.%20LasPassword)  | [![image](res/71.png "LasPassword")](Примеры/№7.%20LasPassword) |
 | ---- | ---- |
 
-[№8. Игра Snake2D](http://localhost/) 
-| 1111 | 2222 |
+[№8. Игра Snake2D](Примеры/№8.%20OpenGL%20Snake2D) 
+
+|[![image](res/80.png "OpenGL Snake2D")](Примеры/№8.%20OpenGL%20Snake2D) | [![image](res/81.png "OpenGL Snake2D")](Примеры/№8.%20OpenGL%20Snake2D) |
 | ---- | ---- |
 
-[№9. Сatch a mole](http://localhost/) 
-| 1111 | 2222 |
+[№9. Сatch a mole](Примеры/№9.%20Сatch%20a%20mole) 
+
+|[![image](res/90.png "Сatch a mole")](Примеры/№9.%20Сatch%20a%20mole)  | [![image](res/91.png "Сatch a mole")](Примеры/№9.%20Сatch%20a%20mole) |
 | ---- | ---- |
 
-[№10. Stopwatch](http://localhost/) 
-| 1111 | 2222 |
+[№10. Stopwatch](Примеры/№10.%20Stopwatch) 
+
+|[![image](res/100.png "Stopwatch")](Примеры/№10.%20Stopwatch) | [![image](res/101.png "Stopwatch")](Примеры/№10.%20Stopwatch) |
 | ---- | ---- |
 
-[№11. Tic-Tac-Toe](http://localhost/) 
-| 1111 | 2222 |
+[№11. Tic-Tac-Toe](Примеры/№11.%20XO) 
+
+|[![image](res/110.png "Tic-Tac-Toe")](Примеры/№11.%20XO) | [![image](res/111.png "Tic-Tac-Toe")](Примеры/№11.%20XO)  |
 | ---- | ---- |
-
-
-
 
 #### **Программы** - Исходники плейлиста ["Пишем программы на Lazarus"](https://www.youtube.com/watch?v=btO9NjFDXu4&list=PLaHMNOpHDYwrhqasBmwEJqjEPI8oMR45s)
 
