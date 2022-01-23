@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Galaxian.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Game"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="186"/>
+        <CursorPos X="18" Y="205"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="8">
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="58" Column="53" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="53" Column="22" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="73" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="74" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="76" Column="11" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="106" Column="35" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="86" Column="16" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="87" Column="34" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="173" Column="20" TopLine="152"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

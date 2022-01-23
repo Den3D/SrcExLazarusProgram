@@ -1,0 +1,18 @@
+object Game: TGame
+  Left = 460
+  Height = 542
+  Top = 257
+  Width = 713
+  Caption = 'Game'
+  Color = clBlack
+  OnKeyPress = FormKeyPress
+  OnPaint = FormPaint
+  OnShow = FormShow
+  LCLVersion = '2.2.0.4'
+  object Timer1: TTimer
+    Interval = 10
+    OnTimer = Timer1Timer
+    Left = 16
+    Top = 24
+  end
+end
