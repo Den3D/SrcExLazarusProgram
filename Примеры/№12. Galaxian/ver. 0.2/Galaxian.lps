@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="Galaxian.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="15" Y="13"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="ugame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Game"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="92"/>
+        <CursorPos X="67" Y="116"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="scr\uentity.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEntity"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="38"/>
+        <CursorPos Y="59"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="scr\uplayer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uPlayer"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="13"/>
+        <CursorPos X="3" Y="40"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="scr\uenemy.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uEnemy"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="22"/>
+        <CursorPos X="24" Y="47"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="scr\ubullet.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="uBullet"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="18"/>
+        <CursorPos X="27" Y="38"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="26">
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="58" Column="53" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="53" Column="22" TopLine="36"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="73" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="74" Column="11" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="76" Column="11" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="106" Column="35" TopLine="81"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="86" Column="16" TopLine="63"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="87" Column="34" TopLine="61"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="173" Column="20" TopLine="152"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\uentity.pas"/>
+        <Caret Line="25" Column="19" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\uplayer.pas"/>
+        <Caret Line="19" Column="38"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="189" Column="49" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="88" Column="23" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="87" Column="40" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="99" Column="71" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="Galaxian.lpr"/>
+        <Caret Line="13" Column="15"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="98" Column="9" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="100" Column="60" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\uenemy.pas"/>
+        <Caret Line="18" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\uenemy.pas"/>
+        <Caret Line="21" Column="38" TopLine="11"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="89" Column="17" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="146" Column="29" TopLine="124"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="104" Column="39" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\ubullet.pas"/>
+        <Caret Line="17" Column="9"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="159" TopLine="105"/>
+      </Position>
+      <Position>
+        <Filename Value="ugame.pas"/>
+        <Caret Line="109" Column="49" TopLine="92"/>
+      </Position>
+      <Position>
+        <Filename Value="scr\ubullet.pas"/>
+        <Caret Line="18" Column="54" TopLine="2"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
