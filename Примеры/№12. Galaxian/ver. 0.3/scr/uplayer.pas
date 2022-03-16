@@ -1,0 +1,48 @@
+unit uPlayer;
+
+{$mode ObjFPC}{$H+}
+
+interface
+
+uses
+  Classes, SysUtils, uEntity;
+
+type
+
+  { TPlayer }
+
+  TPlayer = class(TEntity)
+  private
+    _health : Integer;
+  public
+    constructor Create(image: string);
+    constructor Create(image: string; x, y: Integer);
+
+    procedure Move ( step: Integer );
+  public
+    property Health : Integer read _health write _health;
+  end;
+
+implementation
+
+{ TPlayer }
+
+constructor TPlayer.Create(image: string);
+begin
+  Self.Create( image, 0, 0);
+end;
+
+constructor TPlayer.Create(image: string; x, y: Integer);
+begin
+  // вызов конструктора базового класса
+  inherited Create( image );
+  Self.SetPosition(x, y);
+end;
+
+procedure TPlayer.Move(step: Integer);
+begin
+  Self.xPos := Self.xPos + step;
+end;
+
+end.
+

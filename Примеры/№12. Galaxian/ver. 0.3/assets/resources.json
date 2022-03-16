@@ -1,0 +1,8 @@
+{
+	"resources":
+	[
+		{ "id": "player", "type": "image", "file": "assets/player.bmp" },
+		{ "id": "enemy", "type": "image", "file": "assets/bot.bmp" },
+		{ "id": "bullet", "type": "image", "file": "assets/bullet.bmp" }
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"resources":
+	[
+		{ "id": "player", "type": "image", "file": "assets/player.bmp" },
+		{ "id": "enemy1", "type": "image", "file": "assets/bot1.bmp" },
+		{ "id": "bullet", "type": "image", "file": "assets/bullet.bmp" }
+	],
+	"level":
+	{
+		"name": "Уровень №1",
+
+		"players":
+		[
+			{ "id": "p_01", "res_id": "player", "health": 3, "position": { "x": 100, "y": 100 } }	
+		],
+		"enemys":
+		[
+			{ "id": "e_01", "res_id": "enemy1", "health": 3, "position": { "x": 0, "y": 0 } },
+			{ "id": "e_02", "res_id": "enemy1", "health": 3, "position": { "x": 70, "y": 0 } },
+			{ "id": "e_03", "res_id": "enemy", "health": 5, "position": { "x": 140, "y": 0 } },
+			{ "id": "e_04", "res_id": "enemy", "health": 3, "position": { "x": 210, "y": 0 } },
+			{ "id": "e_05", "res_id": "enemy", "health": 3, "position": { "x": 280, "y": 0 } }
+		]
+	}
+}
